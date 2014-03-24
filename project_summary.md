@@ -1,12 +1,12 @@
-# Project Title
+# DRAWING MY HIKING LINES
 abc
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Xiaojun Wang, https://github.com/Lolita-wang
+
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+In hangzhou, mountaineering is loved by citizens and tourists.Our team hope to use collections of mountaineering data to create interactive and beauty website and APP.With our footprints on the map drawing, with others to share their hiking trails, enjoy 3D map interesting visual changes.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
