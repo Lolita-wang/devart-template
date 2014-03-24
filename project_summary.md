@@ -1,3 +1,5 @@
+![封面图片](project_images/imag.jpg)
+
 # DRAWING MY HIKING LINES
 
 ## Authors
