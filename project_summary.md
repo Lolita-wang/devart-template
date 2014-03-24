@@ -1,5 +1,4 @@
 # DRAWING MY HIKING LINES
-abc
 
 ## Authors
 - Xiaojun Wang, https://github.com/Lolita-wang
