@@ -1,16 +1,21 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "maps",
+            "web speech"
         ],
         "platforms": [
-            "insert platforms"
+            "android",
+            "windows"
         ],
         "toolkits": [
-            "insert toolkits"
+            "kinect",
+            "unity"
         ]
     },
     "themes": [
-        "insert themes"
+        "css",
+        "html",
+        "processing"
     ]
 }
